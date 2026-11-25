@@ -25,3 +25,15 @@
 ## Descripción
 
 Este repositorio contiene el trabajo realizado durante la Práctica 3 de Ingeniería del Software.
+
+
+## Desarrollo
+
+Esta sección se ha añadido desde la rama desarrollo.
+
+### Cambios realizados
+
+- Creación de una nueva rama.
+- Modificación del archivo README.md.
+- Realización de cambios independientes de la rama principal.
+
